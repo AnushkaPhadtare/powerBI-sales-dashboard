@@ -5,4 +5,7 @@ Tech Stack:
 1. MS Excel (For Viewing the datasets and cleaning them)
 2. Power BI (For importing the cleaned and processed datasets from Excel and building the dashboard).
 3. Version Control System: Git and GitHub. 
-   
+
+Conclusion/Project Insights:
+Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
+
